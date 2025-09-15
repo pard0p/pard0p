@@ -23,7 +23,7 @@
 
 ## GitHub Statistics:
 <a href="https://github.com/pard0p">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pard0p&show_icons=true&theme=dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pard0p&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/pard0p">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pard0p&layout=compact&theme=dark" />
